@@ -3,5 +3,5 @@ package com.practice.Interface;
 /**
  * Owned by Naufal Muhammad Ischyros
  */
-public interface iWallet {
+public interface IWalletAccount {
 }

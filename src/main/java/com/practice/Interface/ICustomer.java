@@ -5,8 +5,6 @@ import com.practice.Entity.Customer;
 /**
  * Owned by Naufal Muhammad Ischyros
  */
-public interface iCustomer {
-
+public interface ICustomer {
     Boolean addCustomer(Customer customer);
-
 }

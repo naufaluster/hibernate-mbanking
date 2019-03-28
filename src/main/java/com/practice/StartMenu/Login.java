@@ -1,4 +1,4 @@
-package com.practice.Menu;
+package com.practice.StartMenu;
 
 /**
  * Owned by Naufal Muhammad Ischyros
